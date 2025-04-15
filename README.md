@@ -5,36 +5,36 @@ This project explores law enforcement agency participation in the FBI’s Unifor
 
 Key questions:
 
-**1. How do agency types vary across states?
+**1. How do agency types vary across states?**
 
-**2. What percentage of agencies participate in NIBRS reporting, and how has adoption changed over time?
+**2. What percentage of agencies participate in NIBRS reporting, and how has adoption changed over time?**
 
 ## Motivation
 Analyzing participation patterns allows us to:
 
-Identify gaps in reporting by region or agency type
+**1. Identify gaps in reporting by region or agency type**
 
-Evaluate the effectiveness of federal data collection initiatives
+**2. Evaluate the effectiveness of federal data collection initiatives**
 
-Support more transparent and complete crime data reporting
+**3. Support more transparent and complete crime data reporting**
 
 ## Visualization and Dashboard Design
 I created an interactive Shiny dashboard that allows users to:
 
-View geographic distribution of participating vs. non-participating agencies
+**View geographic distribution of participating vs. non-participating agencies**
 
-Analyze NIBRS adoption trends over time
+**Analyze NIBRS adoption trends over time**
 
-Examine raw data through an interactive table
+**Examine raw data through an interactive table**
 
 ## Dashboard Walkthrough
 The dashboard includes three tabs:
 
-Geographic Distribution: Interactive map with clickable markers (green = NIBRS participants, red = non-participants)
+**1. Geographic Distribution: Interactive map with clickable markers (green = NIBRS participants, red = non-participants)**
 
-NIBRS Adoption Trends: Line chart of cumulative adoption over time by agency type
+**2. NIBRS Adoption Trends: Line chart of cumulative adoption over time by agency type**
 
-Data Table: Filterable table of all agencies and attributes
+**3. Data Table: Filterable table of all agencies and attributes**
 
 ## Conclusion
 This project demonstrates the power of data visualization to uncover patterns in public safety reporting. By analyzing the FBI's NIBRS dataset, we can promote transparency and support more consistent data practices among law enforcement agencies nationwide.
