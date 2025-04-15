@@ -12,20 +12,20 @@ Key questions:
 ## Motivation
 Analyzing participation patterns allows us to:
 
-  **1. Identify gaps in reporting by region or agency type**
+   - Identify gaps in reporting by region or agency type
 
-  **2. Evaluate the effectiveness of federal data collection initiatives**
+   - Evaluate the effectiveness of federal data collection initiatives
 
-  **3. Support more transparent and complete crime data reporting**
+   - Support more transparent and complete crime data reporting
 
 ## Visualization and Dashboard Design
 I created an interactive Shiny dashboard that allows users to:
 
-  - View geographic distribution of participating vs. non-participating agencies**
+  - View geographic distribution of participating vs. non-participating agencies
 
-  - Analyze NIBRS adoption trends over time**
+  - Analyze NIBRS adoption trends over time
 
-  - Examine raw data through an interactive table**
+  - Examine raw data through an interactive table
 
 ## Dashboard Walkthrough
 The dashboard includes three tabs:
