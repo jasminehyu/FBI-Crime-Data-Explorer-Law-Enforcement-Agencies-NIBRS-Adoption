@@ -32,6 +32,7 @@ I created an interactive Shiny dashboard that allows users to:
  The [Interactive Dashboard](https://jasmineyu-works-1688.shinyapps.io/nibrs-dashboard/) includes three tabs:
 
   **1. Geographic Distribution: Interactive map with clickable markers (green = NIBRS participants, red = non-participants)**
+  ![Geographic map](./images/Geographic Distribution.png)
 
   **2. NIBRS Adoption Trends: Line chart of cumulative adoption over time by agency type**
 
