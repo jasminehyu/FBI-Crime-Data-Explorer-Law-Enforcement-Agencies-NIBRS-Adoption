@@ -36,6 +36,7 @@ I created an interactive Shiny dashboard that allows users to:
   ![Geographic map](./images/Geographic_Distribution.png)
 
   **2. NIBRS Adoption Trends: Line chart of cumulative adoption over time by agency type**
+  ![Adoption Trends](./images/NIBRS_Adoption_Trends.png)
 
   **3. Data Table: Filterable table of all agencies and attributes**
 
