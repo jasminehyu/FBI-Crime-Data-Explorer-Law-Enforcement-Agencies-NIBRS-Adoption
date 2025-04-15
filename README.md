@@ -27,7 +27,8 @@ I created an interactive Shiny dashboard that allows users to:
 
   - Examine raw data through an interactive table
 
-## Dashboard Walkthrough
+## Dashboard Walkthrough 
+[Interactive Dashboard](https://jasmineyu-works-1688.shinyapps.io/nibrs-dashboard/)
 The dashboard includes three tabs:
 
   **1. Geographic Distribution: Interactive map with clickable markers (green = NIBRS participants, red = non-participants)**
