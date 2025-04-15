@@ -5,9 +5,9 @@ This project explores law enforcement agency participation in the FBI’s Unifor
 
 Key questions:
 
-How do agency types vary across states?
+**1. How do agency types vary across states?
 
-What percentage of agencies participate in NIBRS reporting, and how has adoption changed over time?
+**2. What percentage of agencies participate in NIBRS reporting, and how has adoption changed over time?
 
 ## Motivation
 Analyzing participation patterns allows us to:
