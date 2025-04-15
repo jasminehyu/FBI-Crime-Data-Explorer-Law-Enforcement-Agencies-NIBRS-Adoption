@@ -1,6 +1,7 @@
 # FBI Crime Data Explorer-Law Enforcement Agencies NIBRS Adoption
 
- ![Image](./images/image_1.jpg)
+ ![Image](./images/image_1.jpg)  
+ 
  credit to domoyega from iStock
 
 ## Introduction
