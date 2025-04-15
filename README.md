@@ -21,11 +21,11 @@ Analyzing participation patterns allows us to:
 ## Visualization and Dashboard Design
 I created an interactive Shiny dashboard that allows users to:
 
-  **View geographic distribution of participating vs. non-participating agencies**
+  - View geographic distribution of participating vs. non-participating agencies**
 
-  **Analyze NIBRS adoption trends over time**
+  - Analyze NIBRS adoption trends over time**
 
-  **Examine raw data through an interactive table**
+  - Examine raw data through an interactive table**
 
 ## Dashboard Walkthrough
 The dashboard includes three tabs:
