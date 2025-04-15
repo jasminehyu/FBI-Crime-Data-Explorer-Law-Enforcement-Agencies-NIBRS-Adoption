@@ -1,5 +1,7 @@
 # FBI Crime Data Explorer-Law Enforcement Agencies NIBRS Adoption
 
+ ![Image](./images/image_1.jpg)
+
 ## Introduction
 This project explores law enforcement agency participation in the FBI’s Uniform Crime Reporting (UCR) Program, specifically focusing on NIBRS (National Incident-Based Reporting System) data from the FBI Crime Data Explorer. The dataset includes agency types and geographic details across all 50 U.S. states.
 
